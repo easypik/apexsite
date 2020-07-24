@@ -16299,6 +16299,10 @@ footer {
   padding-left: 0;
   padding-right: 0; }
 
+nav {
+  border-bottom: 1px solid rgb(29, 29, 160);
+}
+
 .navbar-brand {
   height: 46px;
   margin-top: .5rem;
@@ -16310,8 +16314,7 @@ footer {
     height: 56px; }
   .navbar-brand .navbar-logo {
     width: auto;
-    max-height: 100%;
-    display: none; }
+    max-height: 100%;}
 
 .navbar-nav .nav-item + .nav-item {
   margin-left: 1rem; }
